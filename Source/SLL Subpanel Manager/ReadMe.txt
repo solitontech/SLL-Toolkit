@@ -1,0 +1,1 @@
+For now, we can complete the functionalities with class methods. Once done, we can then create DVR methods over them.
