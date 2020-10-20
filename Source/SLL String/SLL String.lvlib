@@ -9,5 +9,6 @@
 </Property>
 	<Item Name="Get Tags from String.vi" Type="VI" URL="../Get Tags from String.vi"/>
 	<Item Name="Set Tag Value.vi" Type="VI" URL="../Set Tag Value.vi"/>
+	<Item Name="String Compare.vi" Type="VI" URL="../String Compare.vi"/>
 	<Item Name="Time Stamp to String.vi" Type="VI" URL="../Time Stamp to String.vi"/>
 </Library>
