@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
+		<Item Name="Mini Table Pop Up.vi" Type="VI" URL="../_SubVIs/Mini Table Pop Up.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
