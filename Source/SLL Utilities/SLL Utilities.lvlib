@@ -21,6 +21,7 @@
 		<Item Name="Find Re-entrant VIs in Folder.vi" Type="VI" URL="../VIs/Find Re-entrant VIs in Folder.vi"/>
 		<Item Name="Compare VIs.vi" Type="VI" URL="../VIs/Compare VIs.vi"/>
 		<Item Name="Compare VI Folders.vi" Type="VI" URL="../VIs/Compare VI Folders.vi"/>
+		<Item Name="Launch VI in Project Instance.vi" Type="VI" URL="../VIs/Launch VI in Project Instance.vi"/>
 	</Item>
 	<Item Name="Version" Type="Folder">
 		<Item Name="Compare Versions.vi" Type="VI" URL="../Version/Compare Versions.vi"/>
