@@ -27,11 +27,30 @@
 		<Item Name="U16 to String.vi" Type="VI" URL="../_SubVIs/U16 to String.vi"/>
 		<Item Name="U32 to String.vi" Type="VI" URL="../_SubVIs/U32 to String.vi"/>
 		<Item Name="U64 to String.vi" Type="VI" URL="../_SubVIs/U64 to String.vi"/>
+		<Item Name="1D Double Array to String.vi" Type="VI" URL="../_SubVIs/1D Double Array to String.vi"/>
+		<Item Name="1D String Array to String.vi" Type="VI" URL="../_SubVIs/1D String Array to String.vi"/>
+		<Item Name="2D Double Array to String.vi" Type="VI" URL="../_SubVIs/2D Double Array to String.vi"/>
+		<Item Name="2D String Array to String.vi" Type="VI" URL="../_SubVIs/2D String Array to String.vi"/>
+		<Item Name="String to 1D Double Array.vi" Type="VI" URL="../_SubVIs/String to 1D Double Array.vi"/>
+		<Item Name="String to 2D Double Array.vi" Type="VI" URL="../_SubVIs/String to 2D Double Array.vi"/>
+		<Item Name="String to 2D String Array.vi" Type="VI" URL="../_SubVIs/String to 2D String Array.vi"/>
+		<Item Name="String to 1D String Array.vi" Type="VI" URL="../_SubVIs/String to 1D String Array.vi"/>
+		<Item Name="1D I64 Array to String.vi" Type="VI" URL="../_SubVIs/1D I64 Array to String.vi"/>
+		<Item Name="2D I64 Array to String.vi" Type="VI" URL="../_SubVIs/2D I64 Array to String.vi"/>
+		<Item Name="String to 1D I64 Array.vi" Type="VI" URL="../_SubVIs/String to 1D I64 Array.vi"/>
+		<Item Name="String to 2D I64 Array.vi" Type="VI" URL="../_SubVIs/String to 2D I64 Array.vi"/>
 	</Item>
-	<Item Name="Get Tags from String.vi" Type="VI" URL="../Get Tags from String.vi"/>
-	<Item Name="Set Tag Value.vi" Type="VI" URL="../Set Tag Value.vi"/>
+	<Item Name="Conversions" Type="Folder">
+		<Item Name="String to Array.vi" Type="VI" URL="../Conversions/String to Array.vi"/>
+		<Item Name="Array to String.vi" Type="VI" URL="../Conversions/Array to String.vi"/>
+		<Item Name="String to Number.vi" Type="VI" URL="../Conversions/String to Number.vi"/>
+		<Item Name="Number to String.vi" Type="VI" URL="../Conversions/Number to String.vi"/>
+		<Item Name="Time Stamp to String.vi" Type="VI" URL="../Conversions/Time Stamp to String.vi"/>
+	</Item>
+	<Item Name="Tags" Type="Folder">
+		<Item Name="Get Tags from String.vi" Type="VI" URL="../Tags/Get Tags from String.vi"/>
+		<Item Name="Set Tag Value.vi" Type="VI" URL="../Tags/Set Tag Value.vi"/>
+	</Item>
 	<Item Name="String Compare.vi" Type="VI" URL="../String Compare.vi"/>
-	<Item Name="String to Numeric.vi" Type="VI" URL="../String to Numeric.vi"/>
-	<Item Name="Number to String.vi" Type="VI" URL="../Number to String.vi"/>
-	<Item Name="Time Stamp to String.vi" Type="VI" URL="../Time Stamp to String.vi"/>
+	<Item Name="Search 1D String Array.vi" Type="VI" URL="../Search 1D String Array.vi"/>
 </Library>
