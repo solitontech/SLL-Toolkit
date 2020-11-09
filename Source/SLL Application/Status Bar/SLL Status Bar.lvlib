@@ -5,8 +5,5 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="SubVIs" Type="Folder"/>
-	<Item Name="Typedefs" Type="Folder">
-		<Item Name="Status Bar Operation.ctl" Type="VI" URL="../Typedefs/Status Bar Operation.ctl"/>
-	</Item>
-	<Item Name="Status Bar.vi" Type="VI" URL="../Status Bar.vi"/>
+	<Item Name="Typedefs" Type="Folder"/>
 </Library>
