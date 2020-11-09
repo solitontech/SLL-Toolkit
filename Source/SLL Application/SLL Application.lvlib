@@ -34,12 +34,6 @@
 		<Item Name="Set VI&apos;s Run On Open Property.vi" Type="VI" URL="../VIs/Set VI&apos;s Run On Open Property.vi"/>
 		<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/VI Folder Action Template.vi"/>
 	</Item>
-	<Item Name="Status Bar" Type="Folder">
-		<Item Name="_Typedefs" Type="Folder">
-			<Item Name="Status Bar Operation.ctl" Type="VI" URL="../Status Bar/_Typedefs/Status Bar Operation.ctl"/>
-		</Item>
-		<Item Name="Status Bar.vi" Type="VI" URL="../Status Bar/Status Bar.vi"/>
-	</Item>
 	<Item Name="Current EXE File Path.vi" Type="VI" URL="../Current EXE File Path.vi"/>
 	<Item Name="Restart Application.vi" Type="VI" URL="../Restart Application.vi"/>
 	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>

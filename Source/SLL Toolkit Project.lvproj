@@ -13,7 +13,6 @@
 		<Item Name="Source" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Untitled 3.vi" Type="VI" URL="/C/Users/karthik.abiram/Downloads/Delete/Untitled 3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Array Size(s)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Array Size(s)__ogtk.vi"/>
