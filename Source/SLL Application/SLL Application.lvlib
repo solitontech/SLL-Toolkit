@@ -16,6 +16,23 @@
 		<Item Name="Format Version Number.vi" Type="VI" URL="../Version/Format Version Number.vi"/>
 		<Item Name="Get EXE Version.vi" Type="VI" URL="../Version/Get EXE Version.vi"/>
 	</Item>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="_SubVIs" Type="Folder">
+			<Item Name="Copy Folder and Rename Files.vi" Type="VI" URL="../VIs/_SubVIs/Copy Folder and Rename Files.vi"/>
+		</Item>
+		<Item Name="_Typedefs" Type="Folder">
+			<Item Name="VI Comparison Options.ctl" Type="VI" URL="../VIs/_Typedefs/VI Comparison Options.ctl"/>
+		</Item>
+		<Item Name="Compare VI Folders.vi" Type="VI" URL="../VIs/Compare VI Folders.vi"/>
+		<Item Name="Compare VIs.vi" Type="VI" URL="../VIs/Compare VIs.vi"/>
+		<Item Name="Find Broken VIs in a Folder.vi" Type="VI" URL="../VIs/Find Broken VIs in a Folder.vi"/>
+		<Item Name="Find Re-entrant VIs in Folder.vi" Type="VI" URL="../VIs/Find Re-entrant VIs in Folder.vi"/>
+		<Item Name="Launch VI in Project Instance.vi" Type="VI" URL="../VIs/Launch VI in Project Instance.vi"/>
+		<Item Name="Mass Compile a Folder.vi" Type="VI" URL="../VIs/Mass Compile a Folder.vi"/>
+		<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Save VIs in a Folder.vi"/>
+		<Item Name="Set VI&apos;s Run On Open Property.vi" Type="VI" URL="../VIs/Set VI&apos;s Run On Open Property.vi"/>
+		<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/VI Folder Action Template.vi"/>
+	</Item>
 	<Item Name="Current EXE File Path.vi" Type="VI" URL="../Current EXE File Path.vi"/>
 	<Item Name="Restart Application.vi" Type="VI" URL="../Restart Application.vi"/>
 	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>

@@ -54,7 +54,7 @@
 	<Item Name="_Typedefs" Type="Folder">
 		<Item Name="Sortable Alpha Numeric Cluster.ctl" Type="VI" URL="../_Typedefs/Sortable Alpha Numeric Cluster.ctl"/>
 	</Item>
-	<Item Name="String Compare.vi" Type="VI" URL="../String Compare.vi"/>
+	<Item Name="Compare Strings.vi" Type="VI" URL="../Compare Strings.vi"/>
 	<Item Name="Search 1D String Array.vi" Type="VI" URL="../Search 1D String Array.vi"/>
 	<Item Name="Sort 1D String Array.vi" Type="VI" URL="../Sort 1D String Array.vi"/>
 	<Item Name="Sort 2D String Array.vi" Type="VI" URL="../Sort 2D String Array.vi"/>
