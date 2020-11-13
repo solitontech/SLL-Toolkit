@@ -44,6 +44,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
+	<Item Name="Get Data.vi" Type="VI" URL="../Get Data.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0,V(:$2!!%!!!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+	</Item>
 	<Item Name="Filter Data.vi" Type="VI" URL="../Filter Data.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(I!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q:4&gt;(*J&lt;G=!!#"!1!!#``````````]!"!]S2#"%982B)%^V&gt;&amp;N&gt;7VU!'E"!!!(`````!!1.3'6B:'6S=S"0&gt;82&lt;81!K1(!!(A!!%R&amp;44%QA6'&amp;C&lt;'5O&lt;(:D&lt;'&amp;T=Q!.5UR-)&amp;2B9GRF)'^V&gt;!!%!!!!%%!B#E.P&gt;7ZU0S!I2CE!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q:):7&amp;E:8)!!!Z!-0````]&amp;6G&amp;M&gt;75!'E"1!!)!#Q!-$F.Z=X2F&lt;3"$&lt;(6T&gt;'6S!!!=1%!!!@````]!$1^797RV:3"';7RU:8*T7VU!(%"!!!(`````!!1/3'6B:'6S)%^S:'6S7VU!!#J!=!!?!!!4%6.-4#"597*M:3ZM&gt;G.M98.T!!R44%QA6'&amp;C&lt;'5A;7Y!!'%!]!!-!!-!"1!'!!=!#!!)!!E!#!!+!!Y!$Q!1!Q!!?!!!$1A!!!E!!!!.#A!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!#!!!!!1)!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!"%!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
