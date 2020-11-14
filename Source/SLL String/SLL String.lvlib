@@ -39,6 +39,8 @@
 		<Item Name="2D I64 Array to String.vi" Type="VI" URL="../_SubVIs/2D I64 Array to String.vi"/>
 		<Item Name="String to 1D I64 Array.vi" Type="VI" URL="../_SubVIs/String to 1D I64 Array.vi"/>
 		<Item Name="String to 2D I64 Array.vi" Type="VI" URL="../_SubVIs/String to 2D I64 Array.vi"/>
+		<Item Name="Search 1D String Array First Match.vi" Type="VI" URL="../_SubVIs/Search 1D String Array First Match.vi"/>
+		<Item Name="Search 1D String Array All Matches.vi" Type="VI" URL="../_SubVIs/Search 1D String Array All Matches.vi"/>
 	</Item>
 	<Item Name="Conversions" Type="Folder">
 		<Item Name="String to Array.vi" Type="VI" URL="../Conversions/String to Array.vi"/>
