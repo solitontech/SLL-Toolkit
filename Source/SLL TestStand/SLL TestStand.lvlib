@@ -8,7 +8,11 @@
 
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
+		<Item Name="Parse TSA Report File.vi" Type="VI" URL="../_SubVIs/Parse TSA Report File.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
+	</Item>
+	<Item Name="_Typedefs" Type="Folder">
+		<Item Name="TSA Message Cluster.ctl" Type="VI" URL="../_Typedefs/TSA Message Cluster.ctl"/>
 	</Item>
 	<Item Name="Sequence Analyzer" Type="Folder">
 		<Item Name="Run TSA Project.vi" Type="VI" URL="../Sequence Analyzer/Run TSA Project.vi"/>
