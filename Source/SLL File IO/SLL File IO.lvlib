@@ -22,6 +22,17 @@
 		<Item Name="Read Folder Shot File.vi" Type="VI" URL="../Folder Shot/Read Folder Shot File.vi"/>
 		<Item Name="Compare Folder Shot Files.vi" Type="VI" URL="../Folder Shot/Compare Folder Shot Files.vi"/>
 	</Item>
+	<Item Name="XML" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="_SubVIs" Type="Folder">
+			<Item Name="Initialize XML from File.vi" Type="VI" URL="../XML/_SubVIs/Initialize XML from File.vi"/>
+			<Item Name="Initialize XML from String.vi" Type="VI" URL="../XML/_SubVIs/Initialize XML from String.vi"/>
+			<Item Name="Get XPath Text.vi" Type="VI" URL="../XML/_SubVIs/Get XPath Text.vi"/>
+		</Item>
+		<Item Name="Initialize XML.vi" Type="VI" URL="../XML/Initialize XML.vi"/>
+		<Item Name="Get XPath.vi" Type="VI" URL="../XML/Get XPath.vi"/>
+		<Item Name="Close XML.vi" Type="VI" URL="../XML/Close XML.vi"/>
+	</Item>
 	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>
 	<Item Name="Open File or Folder or EXE.vi" Type="VI" URL="../Open File or Folder or EXE.vi"/>
 </Library>
