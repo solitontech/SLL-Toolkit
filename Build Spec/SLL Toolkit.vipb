@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2019-04-03 18:04:53" Modified_Date="2020-11-14 18:08:01" Creator="reusables" Comments="" ID="dd5ca0060617cc8c8e60904cf67b8764">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2019-04-03 18:04:53" Modified_Date="2020-11-14 21:22:21" Creator="reusables" Comments="" ID="18c2a56fe1036194a7712b4644bf69cd">
   <Library_General_Settings>
     <Package_File_Name>Soliton_Technologies_lib_SLL_Toolkit</Package_File_Name>
-    <Library_Version>0.0.0.5</Library_Version>
+    <Library_Version>0.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\Packages\SLL Toolkit</Library_Output_Folder>
@@ -345,7 +345,7 @@
         <Path>..\Source\SLL Easy TCP</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61DE278272085E95F772B99C336721B3</GUID>
+      <GUID>ABEDEE51965C5BE36D5F8BA6BCCB4F38</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +436,7 @@
         <Path>..\Source\SLL Application\Restart Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>908B37B5E49F11AA94838B50998316C4</GUID>
+      <GUID>FA60E430F1788528ACEAA67EBC20FCBC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -471,7 +471,7 @@
         <Path>..\Source\SLL Class\Get Object from Class Path.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B889815B985B553D72A16784C3159031</GUID>
+      <GUID>256A839733304759FCE3E671488F97F9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -548,7 +548,7 @@
         <Path>..\Source\SLL Database\Execute Query and Fetch Response.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F20B63BE0A32F32F5CC21536BBDD725</GUID>
+      <GUID>345D22674F5F8FBEDCFF03CD164405B1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -639,7 +639,7 @@
         <Path>..\Source\SLL Debug\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>27AE3BFBEAD9F65FA494E8AC270B259C</GUID>
+      <GUID>F85FE390718B02D6D6386AE4EC22707C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -772,7 +772,7 @@
         <Path>..\Source\SLL Easy TCP\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>84815FA41AC3346EB47F59F33D5606D6</GUID>
+      <GUID>E3D73A80D6F83AB5375EF2C2F1AD034C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -807,7 +807,7 @@
         <Path>..\Source\SLL File IO\Folder Shot</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1E76306110009131277679A5C4E50EA1</GUID>
+      <GUID>37ECEF6EF8EF632D0E7E08D58C0D7BAF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -856,7 +856,7 @@
         <Path>..\Source\SLL Queued State Machine\Single Loop QSM.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2EE7949B3B4FE2B97E0CDCE4DBC5B04</GUID>
+      <GUID>4BB35B2427003DC886F22D4810CDBF82</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -961,7 +961,7 @@
         <Path>..\Source\SLL Spreadsheet\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B869A4AD19AAC4439358F5BA540FD0E5</GUID>
+      <GUID>9772824E11A7D68B9C19A7B696CB5B5D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1066,7 +1066,7 @@
         <Path>..\Source\SLL String\Compare Strings.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>13A0CAB752140923FF29C0775E6234D2</GUID>
+      <GUID>E0749FA86D2643082F6BA675975BB6E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1171,7 +1171,7 @@
         <Path>..\Source\SLL Table\Example</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38CFB73CB29CA62F38FF196CA3B88C2F</GUID>
+      <GUID>87DA577249828CBDCE9626929E6B4AEE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1206,7 +1206,7 @@
         <Path>..\Source\SLL TestStand\Sequence Analyzer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E5AE8909E0F78E98E5ED318F56152711</GUID>
+      <GUID>CF181068600B7CDBDE2EA588EB121719</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1255,7 +1255,7 @@
         <Path>..\Source\SLL Application\Splash Screen\Update Splash Screen.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D739964169515D16EAEF25BC7CC2C85</GUID>
+      <GUID>185030805458F785427A8AB02B288271</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1318,7 +1318,7 @@
         <Path>..\Source\SLL Application\Version\Get EXE Version.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B461169B68D876E530C023EA95766464</GUID>
+      <GUID>676D238EE302689302A364E0FDD7F842</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1353,7 +1353,7 @@
         <Path>..\Source\SLL Database\Example\Example - SLL Database.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A29972D5C8D5233661BED87A83FFA331</GUID>
+      <GUID>4B0510C4FD830C97D7EFA6E2DF9311B2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1416,7 +1416,7 @@
         <Path>..\Source\SLL Debug\Examples\Example - Time Profile Logger.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>039036DE0282FC3AFE0261808B3F1EEA</GUID>
+      <GUID>F50669CC0EA54FD4693AA77F49EF4030</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1479,7 +1479,7 @@
         <Path>..\Source\SLL Easy TCP\Examples\SLL Easy API Server Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B3E4F331A5ADEA4C407DF056A5F9DAA8</GUID>
+      <GUID>D8F2E44FF72C707BE8424CCE1D531BE7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1584,7 +1584,7 @@
         <Path>..\Source\SLL File IO\Folder Shot\Compare Folder Shot Files.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>33AAF0DE99FBC9276793CCF1AD106870</GUID>
+      <GUID>5E5B3D364566DEBD6180E438F6497A2D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1661,7 +1661,7 @@
         <Path>..\Source\SLL Spreadsheet\CSV Logger\Log Key Value Pairs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EE0DE3D6694598876C63078B28C6CAD8</GUID>
+      <GUID>528B286DC803165BA35F79E7C1DC696F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1696,7 +1696,7 @@
         <Path>..\Source\SLL Spreadsheet\Examples\Example - Write and Read Multiline Spreadsheet.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3FB09940797922F3EDD81ECE675924A3</GUID>
+      <GUID>C98389E19D1FBF4C716E1261B5563A33</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1787,7 +1787,7 @@
         <Path>..\Source\SLL String\Conversions\Array to String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>63734E25BE3461DC3AD6A79DA497B9F3</GUID>
+      <GUID>A5A252C478D09CF64B549E71B3BB5F8F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1836,7 +1836,7 @@
         <Path>..\Source\SLL String\Tags\Set Tag Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E341DF2E29CAE77E6977E626D5E8A584</GUID>
+      <GUID>E8BB1EAAC5DF5AA1018B08B650E21EC7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -1871,7 +1871,7 @@
         <Path>..\Source\SLL Table\Example\Example - SLL Table.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C20960444BF273C428CC6A78DA6B0415</GUID>
+      <GUID>3A761E7CB6843ECB42961FD6FF19E28D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -1906,7 +1906,7 @@
         <Path>..\Source\SLL TestStand\Sequence Analyzer\Run TSA Project.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8BBC682B0E5FD2AA7A840394B8EB57BC</GUID>
+      <GUID>590786FDC7E3A9C7B21201E148FB922B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2067,7 +2067,7 @@
         <Path>..\Source\SLL Application\VIs\Find Re-entrant VIs in Folder.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D65C7C1996833CEA6B23A29F0BAE679</GUID>
+      <GUID>8AE634929916487B688DE320BD1C9BA2</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
