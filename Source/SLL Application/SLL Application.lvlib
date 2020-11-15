@@ -33,6 +33,7 @@
 		<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Save VIs in a Folder.vi"/>
 		<Item Name="Set VI&apos;s Run On Open Property.vi" Type="VI" URL="../VIs/Set VI&apos;s Run On Open Property.vi"/>
 		<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/VI Folder Action Template.vi"/>
+		<Item Name="Set Re-entrancy for VIs in a Folder.vi" Type="VI" URL="../VIs/Set Re-entrancy for VIs in a Folder.vi"/>
 	</Item>
 	<Item Name="Current EXE File Path.vi" Type="VI" URL="../Current EXE File Path.vi"/>
 	<Item Name="Restart Application.vi" Type="VI" URL="../Restart Application.vi"/>
