@@ -11,6 +11,7 @@
 	<Item Name="_SubVIs" Type="Folder">
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 		<Item Name="XPath Example.vi" Type="VI" URL="../XML/XPath Example.vi"/>
+		<Item Name="Delete Folder via Commandline.vi" Type="VI" URL="../_SubVIs/Delete Folder via Commandline.vi"/>
 	</Item>
 	<Item Name="_Typedefs" Type="Folder">
 		<Item Name="Folder Shot Element.ctl" Type="VI" URL="../_Typedefs/Folder Shot Element.ctl"/>
