@@ -90,11 +90,6 @@
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
-				<Item Name="SLL File IO.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLL/SLL File IO/SLL File IO.lvlib"/>
-				<Item Name="SLL QSM.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLL/SLL Queued State Machine/SLL QSM.lvlib"/>
-				<Item Name="SLL Spreadsheet.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLL/SLL Spreadsheet/SLL Spreadsheet.lvlib"/>
-				<Item Name="SLL String.lvlib" Type="Library" URL="/&lt;vilib&gt;/SLL/SLL String/SLL String.lvlib"/>
-				<Item Name="SLL Table.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/SLL/SLL Table/SLL Table.lvclass"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
@@ -114,7 +109,9 @@
 			</Item>
 			<Item Name="SLL File IO.lvlib" Type="Library" URL="../../Source/SLL File IO/SLL File IO.lvlib"/>
 			<Item Name="SLL QSM.lvlib" Type="Library" URL="../../Source/SLL Queued State Machine/SLL QSM.lvlib"/>
+			<Item Name="SLL Spreadsheet.lvlib" Type="Library" URL="../../Source/SLL Spreadsheet/SLL Spreadsheet.lvlib"/>
 			<Item Name="SLL String.lvlib" Type="Library" URL="../../Source/SLL String/SLL String.lvlib"/>
+			<Item Name="SLL Table.lvclass" Type="LVClass" URL="../../Source/SLL Table/SLL Table.lvclass"/>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
