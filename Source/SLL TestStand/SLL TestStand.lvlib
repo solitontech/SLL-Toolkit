@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
+		<Item Name="Get Default TSA Report Path.vi" Type="VI" URL="../_SubVIs/Get Default TSA Report Path.vi"/>
 		<Item Name="Parse TSA Report File.vi" Type="VI" URL="../_SubVIs/Parse TSA Report File.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 	</Item>
