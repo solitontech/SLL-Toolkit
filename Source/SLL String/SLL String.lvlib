@@ -60,4 +60,5 @@
 	<Item Name="Search 1D String Array.vi" Type="VI" URL="../Search 1D String Array.vi"/>
 	<Item Name="Sort 1D String Array.vi" Type="VI" URL="../Sort 1D String Array.vi"/>
 	<Item Name="Sort 2D String Array.vi" Type="VI" URL="../Sort 2D String Array.vi"/>
+	<Item Name="Remove Empty Lines from String.vi" Type="VI" URL="../Remove Empty Lines from String.vi"/>
 </Library>
