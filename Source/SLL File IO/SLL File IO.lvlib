@@ -14,6 +14,7 @@
 		<Item Name="Delete Folder via Commandline.vi" Type="VI" URL="../_SubVIs/Delete Folder via Commandline.vi"/>
 	</Item>
 	<Item Name="_Typedefs" Type="Folder">
+		<Item Name="Folder Shot Results.ctl" Type="VI" URL="../../../../SLL Tools/Folder Shot/_Typedefs/Folder Shot Results.ctl"/>
 		<Item Name="Folder Shot Element.ctl" Type="VI" URL="../_Typedefs/Folder Shot Element.ctl"/>
 	</Item>
 	<Item Name="Folder Shot" Type="Folder">
