@@ -25,6 +25,7 @@
 		<Item Name="Write Folder Shot File.vi" Type="VI" URL="../Folder Shot/Write Folder Shot File.vi"/>
 		<Item Name="Read Folder Shot File.vi" Type="VI" URL="../Folder Shot/Read Folder Shot File.vi"/>
 		<Item Name="Compare Folder Shot Files.vi" Type="VI" URL="../Folder Shot/Compare Folder Shot Files.vi"/>
+		<Item Name="Get Folder Shot Result as String.vi" Type="VI" URL="../Folder Shot/Get Folder Shot Result as String.vi"/>
 	</Item>
 	<Item Name="XML" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
