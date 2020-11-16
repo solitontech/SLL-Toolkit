@@ -232,7 +232,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/D/GitHub/LabVIEW/Builds/Folder Shot</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3F73BF8B-FC6E-4F2C-B171-6F31AB5ED197}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Folder Shot.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/D/GitHub/LabVIEW/Builds/Folder Shot/Folder Shot.exe</Property>
