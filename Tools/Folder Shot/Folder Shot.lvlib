@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
+		<Item Name="Handle Special Files.vi" Type="VI" URL="../_SubVIs/Handle Special Files.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
