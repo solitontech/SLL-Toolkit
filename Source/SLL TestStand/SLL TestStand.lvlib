@@ -8,14 +8,20 @@
 
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
-		<Item Name="Get Default TSA Report Path.vi" Type="VI" URL="../_SubVIs/Get Default TSA Report Path.vi"/>
-		<Item Name="Parse TSA Report File.vi" Type="VI" URL="../_SubVIs/Parse TSA Report File.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 	</Item>
-	<Item Name="_Typedefs" Type="Folder">
-		<Item Name="TSA Message Cluster.ctl" Type="VI" URL="../_Typedefs/TSA Message Cluster.ctl"/>
-	</Item>
+	<Item Name="_Typedefs" Type="Folder"/>
 	<Item Name="Sequence Analyzer" Type="Folder">
+		<Item Name="_SubVIs" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Get Default TSA Report Path.vi" Type="VI" URL="../Sequence Analyzer/_SubVIs/Get Default TSA Report Path.vi"/>
+			<Item Name="Parse TSA Report File.vi" Type="VI" URL="../Sequence Analyzer/_SubVIs/Parse TSA Report File.vi"/>
+			<Item Name="Add Sequence Error Message.vi" Type="VI" URL="../Sequence Analyzer/_SubVIs/Add Sequence Error Message.vi"/>
+			<Item Name="Get All Sequence Error Messages.vi" Type="VI" URL="../Sequence Analyzer/_SubVIs/Get All Sequence Error Messages.vi"/>
+		</Item>
+		<Item Name="_Typedefs" Type="Folder">
+			<Item Name="TSA Error Message Cluster.ctl" Type="VI" URL="../Sequence Analyzer/_Typedefs/TSA Error Message Cluster.ctl"/>
+		</Item>
 		<Item Name="Run TSA Project.vi" Type="VI" URL="../Sequence Analyzer/Run TSA Project.vi"/>
 	</Item>
 	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>
