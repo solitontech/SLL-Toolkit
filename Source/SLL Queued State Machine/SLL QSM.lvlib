@@ -11,13 +11,6 @@
 	<Item Name="Queue Driver" Type="Folder">
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Queue Type.ctl" Type="VI" URL="../Queue Driver/Typedefs/Queue Type.ctl"/>
-			<Item Name="Queue Reference.ctl" Type="VI" URL="../Queue Driver/Typedefs/Queue Reference.ctl"/>
-			<Item Name="Queue Reference Command.ctl" Type="VI" URL="../Queue Driver/Typedefs/Queue Reference Command.ctl"/>
-			<Item Name="Variant LUT Command.ctl" Type="VI" URL="../Queue Driver/Typedefs/Variant LUT Command.ctl"/>
-		</Item>
-		<Item Name="_SubVIs" Type="Folder">
-			<Item Name="Get Queue Ref.vi" Type="VI" URL="../Queue Driver/_SubVIs/Get Queue Ref.vi"/>
-			<Item Name="Variant LUT for Queue Ref.vi" Type="VI" URL="../Queue Driver/_SubVIs/Variant LUT for Queue Ref.vi"/>
 		</Item>
 		<Item Name="Create Queue.vi" Type="VI" URL="../Queue Driver/Create Queue.vi"/>
 		<Item Name="Enqueue an Item to Queue.vi" Type="VI" URL="../Queue Driver/Enqueue an Item to Queue.vi"/>
