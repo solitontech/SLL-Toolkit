@@ -8,11 +8,13 @@
 			<Item Name="Copy Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Copy Method VI.vi"/>
 			<Item Name="Copy Template Code.vi" Type="VI" URL="../SubVIs/Low Level/Copy Template Code.vi"/>
 			<Item Name="Create and Return Class DVR Refnum.vi" Type="VI" URL="../SubVIs/Low Level/Create and Return Class DVR Refnum.vi"/>
+			<Item Name="Open Block Diagram.vi" Type="VI" URL="../SubVIs/Low Level/Open Block Diagram.vi"/>
+			<Item Name="Paste Template Code and Wire Error Wires.vi" Type="VI" URL="../SubVIs/Low Level/Paste Template Code and Wire Error Wires.vi"/>
 			<Item Name="Remove Block Diagram Code from Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Remove Block Diagram Code from Method VI.vi"/>
 			<Item Name="Replace Objects with DVRs.vi" Type="VI" URL="../SubVIs/Low Level/Replace Objects with DVRs.vi"/>
 			<Item Name="Update DVR API Contents.vi" Type="VI" URL="../SubVIs/Low Level/Update DVR API Contents.vi"/>
 		</Item>
-		<Item Name="Create DVR API for Class Method.vi" Type="VI" URL="../Create DVR API for Class Method.vi"/>
+		<Item Name="Create DVR API for Class Method.vi" Type="VI" URL="../SubVIs/Create DVR API for Class Method.vi"/>
 	</Item>
 	<Item Name="Template" Type="Folder">
 		<Item Name="__DVR API Template.vi" Type="VI" URL="../Template/__DVR API Template.vi"/>
@@ -25,5 +27,5 @@
 		<Item Name="Test VI.vi" Type="VI" URL="../Test/Test VI.vi"/>
 	</Item>
 	<Item Name="Typedefs" Type="Folder"/>
-	<Item Name="Paste Template Code and Wire Error Wires.vi" Type="VI" URL="../SubVIs/Low Level/Paste Template Code and Wire Error Wires.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
