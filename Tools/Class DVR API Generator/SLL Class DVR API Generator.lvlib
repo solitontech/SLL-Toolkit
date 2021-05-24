@@ -5,6 +5,12 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Low Level" Type="Folder">
+			<Item Name="Add VIs to Class.vi" Type="VI" URL="../SubVIs/Low Level/Add VIs to Class.vi"/>
+			<Item Name="Cleanup Block Diagram.vi" Type="VI" URL="../SubVIs/Low Level/Cleanup Block Diagram.vi"/>
+			<Item Name="Connect DVR Terminals.vi" Type="VI" URL="../SubVIs/Low Level/Connect DVR Terminals.vi"/>
+			<Item Name="Connect Error Terminals.vi" Type="VI" URL="../SubVIs/Low Level/Connect Error Terminals.vi"/>
+			<Item Name="Connect Matching Terminal Names.vi" Type="VI" URL="../SubVIs/Low Level/Connect Matching Terminal Names.vi"/>
+			<Item Name="Connect Terminals to Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Connect Terminals to Method VI.vi"/>
 			<Item Name="Copy Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Copy Method VI.vi"/>
 			<Item Name="Copy Template Code.vi" Type="VI" URL="../SubVIs/Low Level/Copy Template Code.vi"/>
 			<Item Name="Create and Return Class DVR Refnum.vi" Type="VI" URL="../SubVIs/Low Level/Create and Return Class DVR Refnum.vi"/>
@@ -12,6 +18,8 @@
 			<Item Name="Paste Template Code and Wire Error Wires.vi" Type="VI" URL="../SubVIs/Low Level/Paste Template Code and Wire Error Wires.vi"/>
 			<Item Name="Remove Block Diagram Code from Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Remove Block Diagram Code from Method VI.vi"/>
 			<Item Name="Replace Objects with DVRs.vi" Type="VI" URL="../SubVIs/Low Level/Replace Objects with DVRs.vi"/>
+			<Item Name="Replace Placeholder VI with Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Replace Placeholder VI with Method VI.vi"/>
+			<Item Name="Set Default if Unwired.vi" Type="VI" URL="../SubVIs/Low Level/Set Default if Unwired.vi"/>
 			<Item Name="Update DVR API Contents.vi" Type="VI" URL="../SubVIs/Low Level/Update DVR API Contents.vi"/>
 		</Item>
 		<Item Name="Create DVR API for Class Method.vi" Type="VI" URL="../SubVIs/Create DVR API for Class Method.vi"/>
