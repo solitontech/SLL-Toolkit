@@ -10,10 +10,12 @@
 			<Item Name="Connect DVR Terminals.vi" Type="VI" URL="../SubVIs/Low Level/Connect DVR Terminals.vi"/>
 			<Item Name="Connect Error Terminals.vi" Type="VI" URL="../SubVIs/Low Level/Connect Error Terminals.vi"/>
 			<Item Name="Connect Matching Terminal Names.vi" Type="VI" URL="../SubVIs/Low Level/Connect Matching Terminal Names.vi"/>
+			<Item Name="Connect Merge Error Terminals.vi" Type="VI" URL="../SubVIs/Low Level/Connect Merge Error Terminals.vi"/>
 			<Item Name="Connect Terminals to Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Connect Terminals to Method VI.vi"/>
 			<Item Name="Copy Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Copy Method VI.vi"/>
 			<Item Name="Copy Template Code.vi" Type="VI" URL="../SubVIs/Low Level/Copy Template Code.vi"/>
 			<Item Name="Create and Return Class DVR Refnum.vi" Type="VI" URL="../SubVIs/Low Level/Create and Return Class DVR Refnum.vi"/>
+			<Item Name="Get Case Structure Position from VI.vi" Type="VI" URL="../SubVIs/Low Level/Get Case Structure Position from VI.vi"/>
 			<Item Name="Open Block Diagram.vi" Type="VI" URL="../SubVIs/Low Level/Open Block Diagram.vi"/>
 			<Item Name="Paste Template Code and Wire Error Wires.vi" Type="VI" URL="../SubVIs/Low Level/Paste Template Code and Wire Error Wires.vi"/>
 			<Item Name="Remove Block Diagram Code from Method VI.vi" Type="VI" URL="../SubVIs/Low Level/Remove Block Diagram Code from Method VI.vi"/>

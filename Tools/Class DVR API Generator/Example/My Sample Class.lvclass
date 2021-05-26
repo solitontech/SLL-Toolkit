@@ -22,13 +22,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 		</Item>
 		<Item Name="Sample Method with Same Control Names.vi" Type="VI" URL="../Methods/Sample Method with Same Control Names.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;3!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$5!+!!&gt;/&gt;7VF=GFD!!R!)1&gt;#&lt;W^M:7&amp;O!$:!=!!?!!!:&amp;UVZ)&amp;.B&lt;8"M:3"$&lt;'&amp;T=SZM&gt;G.M98.T!"..?3"497VQ&lt;'5A1WRB=X-A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````]'5X2S;7ZH!!!W1(!!(A!!'2&gt;.?3"497VQ&lt;'5A1WRB=X-O&lt;(:D&lt;'&amp;T=Q!348EA5W&amp;N='RF)%.M98.T)'FO!!"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!1!#A)!!(A!!!U)!!!)!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!AA!!!!)!!!!E!!!!!!"!!M!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;3!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$5!+!!&gt;/&gt;7VF=GFD!!R!)1&gt;#&lt;W^M:7&amp;O!$:!=!!?!!!:&amp;UVZ)&amp;.B&lt;8"M:3"$&lt;'&amp;T=SZM&gt;G.M98.T!"..?3"497VQ&lt;'5A1WRB=X-A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-0````]'5X2S;7ZH!!!W1(!!(A!!'2&gt;.?3"497VQ&lt;'5A1WRB=X-O&lt;(:D&lt;'&amp;T=Q!348EA5W&amp;N='RF)%.M98.T)'FO!!"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!1!#A)!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!AA!!!!)!!!!E!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 		</Item>
 	</Item>
 </LVClass>
