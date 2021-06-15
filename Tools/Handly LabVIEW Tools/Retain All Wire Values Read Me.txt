@@ -1,0 +1,3 @@
+Source: https://forums.ni.com/t5/LabVIEW-Idea-Exchange/Enable-Retain-Wire-Values-for-entire-VI-hierarchy/idi-p/1045552?profile.language=en
+
+I have attached a small VI which retains wire values for the entire hierarchy. Copy the VI to your LabVIEW x\project\ folder and restart LabVIEW. You will find a new option in Tools menu >> "Retain All Wire Values". Select this option on the Top level VI and wire values are retained in all its subVIs and itself. Select it again and it removes retain wire values in all its subVIs. (Successive selection alternates between selection and deselection of Retain Wire Values) It is almost as good as native functionality. (VI is saved in LabVIEW 8.5, therefore works for 8.5 and above).
