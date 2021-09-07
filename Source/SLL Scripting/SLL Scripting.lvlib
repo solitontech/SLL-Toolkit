@@ -12,6 +12,9 @@
 		<Item Name="Move LabVIEW File.vi" Type="VI" URL="../_SubVIs/Move LabVIEW File.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 	</Item>
+	<Item Name="Project" Type="Folder">
+		<Item Name="Project Save As.vi" Type="VI" URL="../Project/Project Save As.vi"/>
+		<Item Name="Rename Tags in Project File.vi" Type="VI" URL="../Project/Rename Tags in Project File.vi"/>
+	</Item>
 	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>
-	<Item Name="Project Save As.vi" Type="VI" URL="../Project Save As.vi"/>
 </Library>
