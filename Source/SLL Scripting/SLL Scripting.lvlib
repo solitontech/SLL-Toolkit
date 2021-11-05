@@ -12,9 +12,30 @@
 		<Item Name="Move LabVIEW File.vi" Type="VI" URL="../_SubVIs/Move LabVIEW File.vi"/>
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 	</Item>
+	<Item Name="_Typedefs" Type="Folder">
+		<Item Name="Rename Item Cluster.ctl" Type="VI" URL="../_Typedefs/Rename Item Cluster.ctl"/>
+	</Item>
 	<Item Name="Project" Type="Folder">
 		<Item Name="Project Save As.vi" Type="VI" URL="../Project/Project Save As.vi"/>
 		<Item Name="Rename Tags in Project File.vi" Type="VI" URL="../Project/Rename Tags in Project File.vi"/>
 	</Item>
-	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="_SubVIs" Type="Folder">
+			<Item Name="Copy Folder and Rename Files.vi" Type="VI" URL="../VIs/_SubVIs/Copy Folder and Rename Files.vi"/>
+		</Item>
+		<Item Name="_Typedefs" Type="Folder">
+			<Item Name="VI Comparison Options.ctl" Type="VI" URL="../VIs/_Typedefs/VI Comparison Options.ctl"/>
+		</Item>
+		<Item Name="Compare VI Folders.vi" Type="VI" URL="../VIs/Compare VI Folders.vi"/>
+		<Item Name="Compare VIs.vi" Type="VI" URL="../VIs/Compare VIs.vi"/>
+		<Item Name="Find Broken VIs in a Folder.vi" Type="VI" URL="../VIs/Find Broken VIs in a Folder.vi"/>
+		<Item Name="Find Re-entrant VIs in Folder.vi" Type="VI" URL="../VIs/Find Re-entrant VIs in Folder.vi"/>
+		<Item Name="Get VI Name.vi" Type="VI" URL="../VIs/Get VI Name.vi"/>
+		<Item Name="Launch VI in Project Instance.vi" Type="VI" URL="../VIs/Launch VI in Project Instance.vi"/>
+		<Item Name="Mass Compile a Folder.vi" Type="VI" URL="../VIs/Mass Compile a Folder.vi"/>
+		<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Save VIs in a Folder.vi"/>
+		<Item Name="Set Re-entrancy for VIs in a Folder.vi" Type="VI" URL="../VIs/Set Re-entrancy for VIs in a Folder.vi"/>
+		<Item Name="Set VI&apos;s Run On Open Property.vi" Type="VI" URL="../VIs/Set VI&apos;s Run On Open Property.vi"/>
+		<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/VI Folder Action Template.vi"/>
+	</Item>
 </Library>

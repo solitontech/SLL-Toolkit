@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="14008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!**!!!*Q(C=\&gt;3^43.B%-&lt;R"Y3F#_U/$H&gt;QGOBSN_!7JA7H4J!MLI)*##ZV"]A&gt;I#E".U$A&amp;P&lt;_\_MR.DK*45!C9*=RO]`\^@0O?K7_`:"O.)RNEX?XVNY[N7\$-7AH1RV.KOGCP&gt;&gt;&amp;^[IX19U`@&lt;Q:].`YY&gt;6QHOB]/OI@W`4O^NX_X@[VW]=@\`8YD_"T._GK3[GEAH,+_L=&lt;EDT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)_UYO=J',H+O3,*YMF%S;4*"UBK,E)`%EHM34?$B6YEE]C3@R*"[[+0%EHM34?")0QZ2Y%E`C34S*B[G[*0N/DC@R-,U#4_!*0)%H],#E!E]!#"9,*AYGA;'A-4A)0)%H](#IQ".Y!E`A#4QU+`!%HM!4?!)01`J6C;ZJ/TE?JJ(D=4S/R`%Y(K;7YX%]DM@R/"[7E_.R0!\#7&gt;#:()+=15Y(Z]4R/"\_S@%Y(M@D?"Q04@U/?&lt;]S4&gt;.W=DS'R`!9(M.D?*B#BM@Q'"\$9XC96I&lt;(]"A?QW.Y7%K'R`!9(A.C,-LS-C9T"BK&gt;D-$Q].?@&amp;ONX+&lt;L%_FY`T?/$KHI!61_7[I&amp;201CK'[S[=;I&lt;ILL1KAOIOD#K,[T[)CKA;G(6B+K//P#ZJX&lt;5FNJ1+WJ*,;AZ.7N$0\DDY8$1@L`8&lt;L@4&gt;LP6:L02;L83=LH59L(1@$\8&lt;$:\@6P^:$^O6[@XUJLDB_H,\\`4_^O90PW[Y``D]Z`(FJ`;0[//\[7P]'\5N9;,VTT8["^@ZVA+!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
+<Library LVVersion="16008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!**!!!*Q(C=\&gt;3^43.B%-&lt;R"Y3F#_U/$H&gt;QGOBSN_!7JA7H4J!MLI)*##ZV"]A&gt;I#E".U$A&amp;P&lt;_\_MR.DK*45!C9*=RO]`\^@0O?K7_`:"O.)RNEX?XVNY[N7\$-7AH1RV.KOGCP&gt;&gt;&amp;^[IX19U`@&lt;Q:].`YY&gt;6QHOB]/OI@W`4O^NX_X@[VW]=@\`8YD_"T._GK3[GEAH,+_L=&lt;EDT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)_UYO=J',H+O3,*YMF%S;4*"UBK,E)`%EHM34?$B6YEE]C3@R*"[[+0%EHM34?")0QZ2Y%E`C34S*B[G[*0N/DC@R-,U#4_!*0)%H],#E!E]!#"9,*AYGA;'A-4A)0)%H](#IQ".Y!E`A#4QU+`!%HM!4?!)01`J6C;ZJ/TE?JJ(D=4S/R`%Y(K;7YX%]DM@R/"[7E_.R0!\#7&gt;#:()+=15Y(Z]4R/"\_S@%Y(M@D?"Q04@U/?&lt;]S4&gt;.W=DS'R`!9(M.D?*B#BM@Q'"\$9XC96I&lt;(]"A?QW.Y7%K'R`!9(A.C,-LS-C9T"BK&gt;D-$Q].?@&amp;ONX+&lt;L%_FY`T?/$KHI!61_7[I&amp;201CK'[S[=;I&lt;ILL1KAOIOD#K,[T[)CKA;G(6B+K//P#ZJX&lt;5FNJ1+WJ*,;AZ.7N$0\DDY8$1@L`8&lt;L@4&gt;LP6:L02;L83=LH59L(1@$\8&lt;$:\@6P^:$^O6[@XUJLDB_H,\\`4_^O90PW[Y``D]Z`(FJ`;0[//\[7P]'\5N9;,VTT8["^@ZVA+!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -40,5 +40,4 @@
 	</Item>
 	<Item Name="Open File or Folder or EXE.vi" Type="VI" URL="../Open File or Folder or EXE.vi"/>
 	<Item Name="Delete File or Folder if Exist.vi" Type="VI" URL="../Delete File or Folder if Exist.vi"/>
-	<Item Name="MIT License.txt" Type="Document" URL="../MIT License.txt"/>
 </Library>
