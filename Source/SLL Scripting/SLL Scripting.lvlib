@@ -15,6 +15,30 @@
 	<Item Name="_Typedefs" Type="Folder">
 		<Item Name="Rename Item Cluster.ctl" Type="VI" URL="../_Typedefs/Rename Item Cluster.ctl"/>
 	</Item>
+	<Item Name="Class" Type="Folder">
+		<Item Name="_Class DVR API Generator" Type="Folder">
+			<Item Name="_Example" Type="Folder">
+				<Item Name="Methods" Type="Folder">
+					<Item Name="My Sample Class.lvclass" Type="LVClass" URL="../Class/_Class DVR API Generator/_Example/My Sample Class.lvclass"/>
+				</Item>
+				<Item Name="Test SLL DVR API Generator.vi" Type="VI" URL="../Class/_Class DVR API Generator/_Example/Test SLL DVR API Generator.vi"/>
+			</Item>
+			<Item Name="_Scratch" Type="Folder">
+				<Item Name="Script on Test VI.vi" Type="VI" URL="../Class/_Class DVR API Generator/_Scratch/Script on Test VI.vi"/>
+				<Item Name="Test VI.vi" Type="VI" URL="../Class/_Class DVR API Generator/_Scratch/Test VI.vi"/>
+			</Item>
+			<Item Name="_SubVIs" Type="Folder">
+				<Item Name="Low Level" Type="Folder"/>
+				<Item Name="SLL Class DVR API Generator.lvlib" Type="Library" URL="../Class/_Class DVR API Generator/SLL Class DVR API Generator.lvlib"/>
+			</Item>
+			<Item Name="_Temp" Type="Folder">
+				<Item Name="Class DVR Control.ctl" Type="VI" URL="../Class/_Class DVR API Generator/_Temp/Class DVR Control.ctl"/>
+				<Item Name="My Sample Class.ctl" Type="VI" URL="../Class/_Class DVR API Generator/_Temp/My Sample Class.ctl"/>
+			</Item>
+			<Item Name="_Template" Type="Folder"/>
+		</Item>
+		<Item Name="Class DVR API Generator.vi" Type="VI" URL="../Class/Class DVR API Generator.vi"/>
+	</Item>
 	<Item Name="Project" Type="Folder">
 		<Item Name="Project Save As.vi" Type="VI" URL="../Project/Project Save As.vi"/>
 		<Item Name="Rename Tags in Project File.vi" Type="VI" URL="../Project/Rename Tags in Project File.vi"/>
