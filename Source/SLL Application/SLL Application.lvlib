@@ -10,12 +10,12 @@
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
+		<Item Name="Current EXE File Path.vi" Type="VI" URL="../_SubVIs/Current EXE File Path.vi"/>
 	</Item>
 	<Item Name="Version" Type="Folder">
 		<Item Name="Compare Versions.vi" Type="VI" URL="../Version/Compare Versions.vi"/>
 		<Item Name="Format Version Number.vi" Type="VI" URL="../Version/Format Version Number.vi"/>
 		<Item Name="Get EXE Version.vi" Type="VI" URL="../Version/Get EXE Version.vi"/>
 	</Item>
-	<Item Name="Current EXE File Path.vi" Type="VI" URL="../Current EXE File Path.vi"/>
 	<Item Name="Restart Application.vi" Type="VI" URL="../Restart Application.vi"/>
 </Library>
