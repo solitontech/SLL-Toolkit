@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-04-03 18:04:53" Modified_Date="2021-11-27 21:47:22" Creator="reusables" Comments="" ID="a47708af76a353e813e876ade8881cc8">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2019-04-03 18:04:53" Modified_Date="2021-12-03 23:06:50" Creator="reusables" Comments="" ID="014206498561fe52c2879bb0c1aa9d08">
   <Library_General_Settings>
     <Package_File_Name>Soliton_Technologies_lib_SLL_Toolkit</Package_File_Name>
-    <Library_Version>0.0.0.8</Library_Version>
+    <Library_Version>0.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
-    <Library_Output_Folder>..\..\..\..\Packages\SLL Toolkit</Library_Output_Folder>
+    <Library_Output_Folder>..\Packages</Library_Output_Folder>
     <Company_Name>Soliton Technologies</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -75,7 +75,7 @@ Requires VIPM 2017 or greater.</Description>
       <Tools_Menu>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;project&gt;\SLL Toolkit</Path>
       </Tools_Menu>
       <Help_Menu>
         <LLB>false</LLB>
@@ -105,6 +105,24 @@ Requires VIPM 2017 or greater.</Description>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Support/Tools Menu</Path>
+        <Destination>7</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>SLL Toolkit Project.lvproj</Path>
+        <Destination>7</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Support</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -115,6 +133,9 @@ Requires VIPM 2017 or greater.</Description>
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Place_Folder_Contents>
+        <Path>Support/Tools Menu</Path>
+      </Place_Folder_Contents>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -340,7 +361,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Easy TCP</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C8EC2D6975950777612716A68D7A1CAD</GUID>
+      <GUID>9688985A1E9B55B5D1112A708E2FDE27</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -417,7 +438,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Application\Restart Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F666D031C93CCA2E7E3E325F09E2F939</GUID>
+      <GUID>4147DB15F30F6011255583A289ACFA79</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -452,7 +473,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Class\Get Object from Class Path.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3B9D6252E7098FB0E66C4583836225E2</GUID>
+      <GUID>BEE3DFCC0EFE01F48C5C839D45AAD663</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -532,7 +553,7 @@ Requires VIPM 2017 or greater.</Description>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>SLL Variant Pop Up</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Variant Pop Up</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -543,7 +564,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Debug\Variant Pop Up.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6D133CBF5971FE2560793CB53DC8599E</GUID>
+      <GUID>7750911720F5B0803676C9CCDC715E29</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -676,7 +697,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Easy TCP\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>797F51C946267080400D107038D9E5AC</GUID>
+      <GUID>E0A85A5C6DC084E8EE0C522984097E74</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -767,7 +788,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL File IO\Folder Shot</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E3CCC15E2EFE6F06CE633AF42D1314E6</GUID>
+      <GUID>DE53F314B4AA8010452B544182920287</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -816,7 +837,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Queued State Machine\Single Loop QSM.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6B09E20940F816A41FE9260FA8DAE43</GUID>
+      <GUID>2E3A15A576B89DDD5CB332308CEABB8F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -935,7 +956,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL String\Remove Empty Lines from String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BFBEBB143397306B1CC69DB6C42AC05B</GUID>
+      <GUID>8D1C5A3CD082E489E1E110D57475920E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1040,7 +1061,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Table\Example</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C7ED72BFFA07E892E4661BA0F8A0C34F</GUID>
+      <GUID>B0B8FE9B1877D2F3AE8EE91964D20BBF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1075,7 +1096,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL TestStand\Sequence Analyzer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4E7A9891FEEC301D3E7733446995DA34</GUID>
+      <GUID>22680CBFF6993A65CEFB3B0173EFCFCC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1124,7 +1145,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Application\Splash Screen\Update Splash Screen.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F26CE063F8DA68977A370FEB8A94C461</GUID>
+      <GUID>2892A799684668E00784E605E658C990</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1187,7 +1208,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Application\Version\Get EXE Version.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7D50C6E4D7AE5A75B4C87D1E9A2B71AE</GUID>
+      <GUID>459022BB62B9DBFB095DC32045F1B1BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1250,7 +1271,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Debug\Examples\Example - Time Profile Logger.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2F25872A957424CCE661742715CEC207</GUID>
+      <GUID>A7D79FEBB7F71E4A6A58FE18CA476BEF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1313,7 +1334,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Easy TCP\Examples\SLL Easy API Server Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8A622DA869742208A7DBF44915AC2BF8</GUID>
+      <GUID>2B773CDE8A17231B354D5C3894FFE988</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1418,7 +1439,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL File IO\Folder Shot\Compare Folder Shot Files.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A32AFBF2856FA0F241CEAF5937FD926D</GUID>
+      <GUID>FACD8C0B0C58628474120415B8ADA3B6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1509,7 +1530,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL String\Conversions\Time Stamp to String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2B102048389F922CAC3F65AB08781301</GUID>
+      <GUID>9FC423CAF6C7A94DA48B21A36BFBD018</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1558,7 +1579,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL String\Tags\Set Tag Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>54361727E67B45D3152C0E21146666F6</GUID>
+      <GUID>2DA21945C572F51A1405EBCF1D41D001</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1593,7 +1614,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Table\Example\Example - SLL Table.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B7EB6F149A603862B4E1572240C647A6</GUID>
+      <GUID>36B58A32264E95DD2C9AFAC076B5493B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1628,7 +1649,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL TestStand\Sequence Analyzer\Run TSA Project.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CCD9A62AF7EC8F3D63FE6435AA334D65</GUID>
+      <GUID>7088F677093CF84B294806A9A4C720EA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1705,7 +1726,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL File IO\XML\Close XML.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9BBED91DE9A9B87E6136E5D9AA870054</GUID>
+      <GUID>180EA28001E90EDA1F3C796E2D81E533</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1754,7 +1775,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Scripting\Project</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>709E39BB431AA081814517902C568D19</GUID>
+      <GUID>99973EFFBD8BE8384EA2DBBA3D2DDA55</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -1929,7 +1950,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Scripting\VIs\Get VI Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D52BB64F78D92A1B30571D1A17498497</GUID>
+      <GUID>5C9F36AA69AE0D7AF89EE1B6BCF4A4F3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -1978,7 +1999,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL Scripting\Project\Rename Tags in Project File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>98F471245B33BFB33C16531F971F4288</GUID>
+      <GUID>009576DA201F18DD300F977877047393</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -2069,7 +2090,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL File IO\Spreadsheet\CSV Logger</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CF2BD25F89A1CF9F4BF535EB00959EE5</GUID>
+      <GUID>91EE9ACB75DC47DDA05FE6C9378ADB81</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -2146,7 +2167,7 @@ Requires VIPM 2017 or greater.</Description>
         <Path>..\Source\SLL File IO\Spreadsheet\CSV Logger\Log Key Value Pairs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4D45618D5E6F4D97E3968DB34D0794BC</GUID>
+      <GUID>5E11C17029D7F8CF4D960ED04F02927E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
