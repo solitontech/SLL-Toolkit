@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2019-04-03 18:04:53" Modified_Date="2021-12-04 02:32:06" Creator="reusables" Comments="" ID="3d5aef0cd05f5ac440580d1e1c3ceb42">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2019-04-03 18:04:53" Modified_Date="2021-12-04 02:44:30" Creator="reusables" Comments="" ID="3b2c740949846a126b976762e6ac4571">
   <Library_General_Settings>
     <Package_File_Name>Soliton_Technologies_lib_SLL_Toolkit</Package_File_Name>
     <Library_Version>0.0.0.15</Library_Version>
@@ -28,7 +28,7 @@
     <VI_Package_Configuration_File>SLL Toolkit.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary/>
-      <Description>Available in &lt;b&gt;Functions Palette -&gt; Addons -&gt; SLL Toolkit&lt;/b&gt; and in LabVIEW Tools menu -&gt; SLL Toolkit.
+      <Description>Available in &lt;b&gt;Functions Palette -&gt; Addons -&gt; SLL Toolkit&lt;/b&gt; and in &lt;b&gt;LabVIEW Tools menu -&gt; SLL Toolkit.&lt;/b&gt;
 
 &lt;/b&gt;Requires VIPM 2017 or greater.&lt;/b&gt;
 
@@ -38,39 +38,39 @@ This contains SLL Queued State Machine (QSM) and collection of various useful ge
 A simple, straight forward Queue Based State Machine VI Template. Since this is just a single VI, they can be used for any purpose - from a simple dialog to a complete application.
 
 &lt;b&gt;# SLL File IO&lt;/b&gt;
-## Write/Read Spreadsheet File
+&lt;b&gt;## Write/Read Spreadsheet File&lt;/b&gt;
 The LabVIEW built-in method does not support multi-line strings and delimiters as part of cell contents. Writes and Reads to Spreadsheet file adds support for delimiters and multi-line strings as part of cell contents. This is similar to how applications like Excel support multiline strings in CSV file.
 
-## CSV Logger
+&lt;b&gt;## CSV Logger&lt;/b&gt;
 CSV Logger with support for dynamically adding new headers during logging. Whenver the logger encounters a new header, it takes care of adding the new header without rewriting the entire file contents.
 
 &lt;b&gt;# SLL Easy TCP&lt;/b&gt;
 SLL Easy TCP takes care of establishing and maintaining connections across any number of TCP clients. Any message received from the client is sent as a user event to the server.
 
 &lt;b&gt;# SLL Debug&lt;/b&gt;
-## Variant Pop Up
+&lt;b&gt;## Variant Pop Up&lt;/b&gt;
 Allows showing any data type (like a cluster) as a message pop up.
-## Add Error Meta
+&lt;b&gt;## Add Error Meta&lt;/b&gt;
 Allows to add additional details to the error wire.
-## Time Profile Logger
+&lt;b&gt;## Time Profile Logger&lt;/b&gt;
 Useful for profiling different parts of code to a file. This takes care of storing the log data in memory till "Close" command is called, so that logging to file won't affect the time profiling.
 
 &lt;b&gt;# SLL Scripting&lt;/b&gt;
-## Class DVR API Generator
+&lt;b&gt;## Class DVR API Generator&lt;/b&gt;
 Generates DVR based APIs for LabVIEW Class Methods.
-## Project Save As
+&lt;b&gt;## Project Save As&lt;/b&gt;
 Make a copy of the project and rename some of the components of the project including their relinking.
-## Compare VI Folders
+&lt;b&gt;## Compare VI Folders&lt;/b&gt;
 Compare two folders containing VIs to identify modified VIs ignoring cosmetic changes.
-## Launch VI in Project Instance
+&lt;b&gt;## Launch VI in Project Instance&lt;/b&gt;
 Launches the VI in the given project path's instance.
 
 &lt;b&gt;# SLL String&lt;/b&gt;
-## Alpha Numeric Sort 1D Array
+&lt;b&gt;## Alpha Numeric Sort 1D Array&lt;/b&gt;
 Alpha Numeric Sorting of 1D String Array so that strings are ordered like File 1, File 2..File 10 instead of the usual sorting like File 1, File 10, File 2..
 
 &lt;b&gt;# SLL Tools&lt;/b&gt;
-## Add Copyright
+&lt;b&gt;## Add Copyright&lt;/b&gt;
 A small tool to set/update copyright text to LabVIEW files in a folder.</Description>
       <Copyright/>
       <Packager>Soliton Technologies</Packager>
@@ -414,7 +414,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Tools</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B24D2630FEDC5802582D5CBA7D76B6B5</GUID>
+      <GUID>5BAEC12CFC78C72AC2CF4C2392198F60</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -491,7 +491,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Application\Restart Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B74E38516897001D3D1817590FB36409</GUID>
+      <GUID>B8C5B635CA8B96365FE499326138F9AF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -526,7 +526,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Class\Get Object from Class Path.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>187949FAE9F47B7040B5385547B42591</GUID>
+      <GUID>3A22AC2C8340C2388631C9410B8FF76B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -617,7 +617,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Debug\Variant Pop Up.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F1747972D6BFC23A04981CB852665C95</GUID>
+      <GUID>9855F6343EFE3FADDFD91713C555F0B8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -750,7 +750,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Easy TCP\Examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A0199836F8A382B710E6C8804CA6A0C3</GUID>
+      <GUID>3E7DF0FB7D9DE3B9A4FF9AC906150C12</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -869,7 +869,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL File IO\Open File or Folder or EXE.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C8A6727F9929D553659A7BE6FF7C6A1</GUID>
+      <GUID>9D20BA52F63E03A0E2EDE05EC97909FE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -918,7 +918,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Queued State Machine\Single Loop QSM.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3189EFDAC5E7FF12A6E2C64C0921C661</GUID>
+      <GUID>8137C8A4D404F502F10FBADE7C25DE70</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1037,7 +1037,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL String\Remove Empty Lines from String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ED62DBE882326E60E711142F1DA67BD9</GUID>
+      <GUID>E37B66AF83C3619EF10ED9D48537EDF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1142,7 +1142,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Table\Example</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3D3EB72FA2D041186FE411F22A44454</GUID>
+      <GUID>F9C353FD21FF88E1D7845A2CA7963790</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1177,7 +1177,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL TestStand\Sequence Analyzer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4FE9B3B9914923F6C6DE651E1525498F</GUID>
+      <GUID>566206D816160E102B9BF314471C47F7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1226,7 +1226,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Application\Splash Screen\Update Splash Screen.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>51322500AE2D599DB632605A1E179963</GUID>
+      <GUID>AECB7425A29938E8E0D2817B07BAA4E1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1289,7 +1289,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Application\Version\Get EXE Version.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D57F21EA8AC9AADBE921DF2AF9EE29CA</GUID>
+      <GUID>E3A02FE3637260A82E0E0A68DF69A1C3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1352,7 +1352,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Debug\Examples\Example - Time Profile Logger.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E29EBB707F2A76917FED7AABD094F9BB</GUID>
+      <GUID>E56F17585CEB3F3DE5021BBCCDB64CA6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1415,7 +1415,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Easy TCP\Examples\SLL Easy API Server Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2CDD573AA56C52EAEA3AFADACEC5C6A1</GUID>
+      <GUID>13B8372519448FB65EDCCF41A5F84D78</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1520,7 +1520,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL File IO\Folder Shot\Compare Folder Shot Files.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6B1CA6F854BAC49F52DDAEA72F9371DB</GUID>
+      <GUID>CC55B919E8E5A2E8DC96040E46EE5D03</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1611,7 +1611,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL String\Conversions\Time Stamp to String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7DCF4980A29FC1A1DEC95DE92980B3E2</GUID>
+      <GUID>5012EE92BCBEFF95073DF194C7A5E78B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1660,7 +1660,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL String\Tags\Set Tag Value.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A1452C5CA1423AA7898D20DA12173027</GUID>
+      <GUID>23C643A31506F0890468D30DCC96EFF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1695,7 +1695,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Table\Example\Example - SLL Table.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>92A519DA267E1B3FF7F604B0A0E7553C</GUID>
+      <GUID>6C8AC347E7395AF193B864F14D3D6135</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -1730,7 +1730,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL TestStand\Sequence Analyzer\Run TSA Project.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B64102E4F5A8056D1590849C80AF9112</GUID>
+      <GUID>4A56E056DFBFF0ACCCC46A334CE72B1C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1807,7 +1807,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL File IO\XML\Close XML.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AC7A854EC7CFF1C59144164F4EBD9805</GUID>
+      <GUID>C97DC3C201DEED00DEE2881787661F08</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1870,7 +1870,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Scripting\Class\Class DVR API Generator.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>110AB729AFD900C1922588EE9155815E</GUID>
+      <GUID>4BF62EA6DA10B157C7DFCD50BE6DCF30</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -2045,7 +2045,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Scripting\VIs\Get VI Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D9D011CAB03D4989C7B8311E614D4055</GUID>
+      <GUID>0F5E8B06E73BC453B99B9AA24C2F83A5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -2094,7 +2094,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Scripting\Project\Rename Tags in Project File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7F2C4265D6EEA48782BDB5859F6B4ADD</GUID>
+      <GUID>C1BDE3A11CB9D3C5B4E8780CCA4BC296</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -2185,7 +2185,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL File IO\Spreadsheet\CSV Logger</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>89CD34BC857FCF5E61789FF67EE30B7C</GUID>
+      <GUID>4AC8F6959D14F3CB86343A42AE1BDC49</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -2262,7 +2262,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL File IO\Spreadsheet\CSV Logger\Log Key Value Pairs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>84B00DE376642BB9018D66476D3DEA1B</GUID>
+      <GUID>6ABB409D0A0E457A60D533AFA5523BB1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2297,7 +2297,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Tools\Copyright</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>167B11039BAC4301E942A0E1EFD805FA</GUID>
+      <GUID>434A408098F73C5E86C8B97FC2E379FD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>25</Parent_Palette_Index>
@@ -2346,7 +2346,7 @@ A small tool to set/update copyright text to LabVIEW files in a folder.</Descrip
         <Path>..\Source\SLL Tools\Copyright\Add Copyright to Folder.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6838BCC859096D52E2D667963CE47E12</GUID>
+      <GUID>B8A04760ADE790FC0BD221676F15E181</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
