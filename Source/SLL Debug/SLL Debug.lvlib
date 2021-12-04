@@ -17,9 +17,9 @@
 	<Item Name="_Typedefs" Type="Folder">
 		<Item Name="Time Profile Logger Command.ctl" Type="VI" URL="../_Typedefs/Time Profile Logger Command.ctl"/>
 	</Item>
-	<Item Name="Variant Pop Up.vi" Type="VI" URL="../Variant Pop Up.vi"/>
+	<Item Name="Variant Pop Up using LV2.vi" Type="VI" URL="../Variant Pop Up using LV2.vi"/>
 	<Item Name="Wait with Error In.vi" Type="VI" URL="../Wait with Error In.vi"/>
 	<Item Name="Add Error Meta.vi" Type="VI" URL="../Add Error Meta.vi"/>
 	<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="../High Resolution Relative Seconds.vi"/>
-	<Item Name="Time Profile Logger.vi" Type="VI" URL="../Time Profile Logger.vi"/>
+	<Item Name="Time Profile Logger using LV2.vi" Type="VI" URL="../Time Profile Logger using LV2.vi"/>
 </Library>
