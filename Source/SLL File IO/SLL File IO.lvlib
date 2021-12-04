@@ -39,7 +39,7 @@
 		<Item Name="Close XML.vi" Type="VI" URL="../XML/Close XML.vi"/>
 	</Item>
 	<Item Name="Create Folder if Not Present.vi" Type="VI" URL="../Create Folder if Not Present.vi"/>
-	<Item Name="Delete File or Folder if Exist.vi" Type="VI" URL="../Delete File or Folder if Exist.vi"/>
+	<Item Name="Delete Folder or File if Exist.vi" Type="VI" URL="../Delete Folder or File if Exist.vi"/>
 	<Item Name="Build Path if Relative.vi" Type="VI" URL="../Build Path if Relative.vi"/>
 	<Item Name="Open File or Folder or EXE.vi" Type="VI" URL="../Open File or Folder or EXE.vi"/>
 </Library>
