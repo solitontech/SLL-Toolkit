@@ -5,11 +5,11 @@ LabVIEW Version : 2016
 Some of these useful general purpose LabVIEW reusables are:
 
 # SLL Queued State Machine
-A simple, straight forward Queue Based State Machine VI Template. Since this is just a single VI, they can be used for any purpose - from a simple dialog to a complete application.
+A simple, straight forward Queue Based State Machine VI Template. Since this is just a single VI, they can be used for any purpose - from a dialog to a simple application.
 
 # SLL File IO
 ## Write/Read Spreadsheet File
-The LabVIEW built-in method does not support multi-line strings and delimiters as part of cell contents. Writes and Reads to Spreadsheet file adds support for delimiters and multi-line strings as part of cell contents. This is similar to how applications like Excel support multiline strings in CSV file.
+The LabVIEW built-in method does not support multi-line strings and delimiters as part of cell contents. Write and Read to Spreadsheet file adds support for delimiters and multi-line strings as part of cell contents. This is similar to how applications like Excel support multiline strings in CSV file.
 
 ## CSV Logger
 CSV Logger with support for dynamically adding new headers during logging. Whenver the logger encounters a new header, it takes care of adding the new header without rewriting the entire file contents.
