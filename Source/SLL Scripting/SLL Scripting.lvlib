@@ -55,7 +55,7 @@
 		<Item Name="Mass Compile a Folder.vi" Type="VI" URL="../VIs/Mass Compile a Folder.vi"/>
 		<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Save VIs in a Folder.vi"/>
 		<Item Name="Set Re-entrancy for VIs in a Folder.vi" Type="VI" URL="../VIs/Set Re-entrancy for VIs in a Folder.vi"/>
-		<Item Name="Set VI&apos;s Run On Open Property.vi" Type="VI" URL="../VIs/Set VI&apos;s Run On Open Property.vi"/>
+		<Item Name="Set VI Run On Open Property.vi" Type="VI" URL="../VIs/Set VI Run On Open Property.vi"/>
 		<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/VI Folder Action Template.vi"/>
 	</Item>
 </Library>

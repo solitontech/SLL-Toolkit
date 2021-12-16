@@ -10,7 +10,6 @@
 </Property>
 	<Item Name="_SubVIs" Type="Folder">
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
-		<Item Name="XPath Example.vi" Type="VI" URL="../XML/XPath Example.vi"/>
 		<Item Name="Delete Folder via Commandline.vi" Type="VI" URL="../_SubVIs/Delete Folder via Commandline.vi"/>
 	</Item>
 	<Item Name="_Typedefs" Type="Folder">
@@ -33,6 +32,9 @@
 			<Item Name="Initialize XML from File.vi" Type="VI" URL="../XML/_SubVIs/Initialize XML from File.vi"/>
 			<Item Name="Initialize XML from String.vi" Type="VI" URL="../XML/_SubVIs/Initialize XML from String.vi"/>
 			<Item Name="Get XPath Text.vi" Type="VI" URL="../XML/_SubVIs/Get XPath Text.vi"/>
+		</Item>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Example - XPath.vi" Type="VI" URL="../XML/Examples/Example - XPath.vi"/>
 		</Item>
 		<Item Name="Initialize XML.vi" Type="VI" URL="../XML/Initialize XML.vi"/>
 		<Item Name="Get XPath.vi" Type="VI" URL="../XML/Get XPath.vi"/>
