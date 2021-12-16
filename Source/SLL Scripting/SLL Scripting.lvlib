@@ -40,22 +40,26 @@
 		<Item Name="Rename Tags in Project File.vi" Type="VI" URL="../Project/Rename Tags in Project File.vi"/>
 	</Item>
 	<Item Name="VIs" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="_SubVIs" Type="Folder">
 			<Item Name="Copy Folder and Rename Files.vi" Type="VI" URL="../VIs/_SubVIs/Copy Folder and Rename Files.vi"/>
 		</Item>
 		<Item Name="_Typedefs" Type="Folder">
 			<Item Name="VI Comparison Options.ctl" Type="VI" URL="../VIs/_Typedefs/VI Comparison Options.ctl"/>
 		</Item>
+		<Item Name="Folder Action" Type="Folder">
+			<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/Folder Action/VI Folder Action Template.vi"/>
+			<Item Name="Mass Compile a Folder.vi" Type="VI" URL="../VIs/Folder Action/Mass Compile a Folder.vi"/>
+			<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Save VIs in a Folder.vi"/>
+			<Item Name="Set Re-entrancy for VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Set Re-entrancy for VIs in a Folder.vi"/>
+			<Item Name="Set Separate Compiled Code for VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Set Separate Compiled Code for VIs in a Folder.vi"/>
+			<Item Name="Find Re-entrant VIs in Folder.vi" Type="VI" URL="../VIs/Folder Action/Find Re-entrant VIs in Folder.vi"/>
+			<Item Name="Find Broken VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Find Broken VIs in a Folder.vi"/>
+		</Item>
 		<Item Name="Compare VI Folders.vi" Type="VI" URL="../VIs/Compare VI Folders.vi"/>
 		<Item Name="Compare VIs.vi" Type="VI" URL="../VIs/Compare VIs.vi"/>
-		<Item Name="Find Broken VIs in a Folder.vi" Type="VI" URL="../VIs/Find Broken VIs in a Folder.vi"/>
-		<Item Name="Find Re-entrant VIs in Folder.vi" Type="VI" URL="../VIs/Find Re-entrant VIs in Folder.vi"/>
 		<Item Name="Get VI Name.vi" Type="VI" URL="../VIs/Get VI Name.vi"/>
 		<Item Name="Launch VI in Project Instance.vi" Type="VI" URL="../VIs/Launch VI in Project Instance.vi"/>
-		<Item Name="Mass Compile a Folder.vi" Type="VI" URL="../VIs/Mass Compile a Folder.vi"/>
-		<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Save VIs in a Folder.vi"/>
-		<Item Name="Set Re-entrancy for VIs in a Folder.vi" Type="VI" URL="../VIs/Set Re-entrancy for VIs in a Folder.vi"/>
 		<Item Name="Set VI Run On Open Property.vi" Type="VI" URL="../VIs/Set VI Run On Open Property.vi"/>
-		<Item Name="VI Folder Action Template.vi" Type="VI" URL="../VIs/VI Folder Action Template.vi"/>
 	</Item>
 </Library>
