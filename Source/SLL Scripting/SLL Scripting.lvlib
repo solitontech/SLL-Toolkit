@@ -52,6 +52,7 @@
 			<Item Name="Mass Compile a Folder.vi" Type="VI" URL="../VIs/Folder Action/Mass Compile a Folder.vi"/>
 			<Item Name="Save VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Save VIs in a Folder.vi"/>
 			<Item Name="Set Re-entrancy for VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Set Re-entrancy for VIs in a Folder.vi"/>
+			<Item Name="Set Allow Debugging for VIs in Folder.vi" Type="VI" URL="../VIs/Folder Action/Set Allow Debugging for VIs in Folder.vi"/>
 			<Item Name="Set Separate Compiled Code for VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Set Separate Compiled Code for VIs in a Folder.vi"/>
 			<Item Name="Find Re-entrant VIs in Folder.vi" Type="VI" URL="../VIs/Folder Action/Find Re-entrant VIs in Folder.vi"/>
 			<Item Name="Find Broken VIs in a Folder.vi" Type="VI" URL="../VIs/Folder Action/Find Broken VIs in a Folder.vi"/>
