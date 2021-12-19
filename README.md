@@ -1,6 +1,6 @@
 # SLL-Toolkit
 Collection of useful general purpose LabVIEW Reusables.
-LabVIEW Version : 2016 (64-bit)
+LabVIEW Version : 2016 (32-bit)
 
 Some of these useful general purpose LabVIEW reusables are:
 
