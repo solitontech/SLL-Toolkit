@@ -23,10 +23,6 @@
 				</Item>
 				<Item Name="Test SLL DVR API Generator.vi" Type="VI" URL="../Class/_Class DVR API Generator/_Example/Test SLL DVR API Generator.vi"/>
 			</Item>
-			<Item Name="_Scratch" Type="Folder">
-				<Item Name="Script on Test VI.vi" Type="VI" URL="../Class/_Class DVR API Generator/_Scratch/Script on Test VI.vi"/>
-				<Item Name="Test VI.vi" Type="VI" URL="../Class/_Class DVR API Generator/_Scratch/Test VI.vi"/>
-			</Item>
 			<Item Name="_SubVIs" Type="Folder">
 				<Item Name="Low Level" Type="Folder"/>
 				<Item Name="SLL Class DVR API Generator.lvlib" Type="Library" URL="../Class/_Class DVR API Generator/SLL Class DVR API Generator.lvlib"/>
