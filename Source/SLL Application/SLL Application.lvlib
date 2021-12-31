@@ -18,4 +18,5 @@
 		<Item Name="Format Version Number.vi" Type="VI" URL="../Version/Format Version Number.vi"/>
 	</Item>
 	<Item Name="Restart Application.vi" Type="VI" URL="../Restart Application.vi"/>
+	<Item Name="Wait until VIs close.vi" Type="VI" URL="../Wait until VIs close.vi"/>
 </Library>
