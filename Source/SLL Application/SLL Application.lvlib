@@ -11,6 +11,9 @@
 	<Item Name="_SubVIs" Type="Folder">
 		<Item Name="SubVI Template.vit" Type="VI" URL="../_SubVIs/SubVI Template.vit"/>
 		<Item Name="Current EXE File Path.vi" Type="VI" URL="../_SubVIs/Current EXE File Path.vi"/>
+		<Item Name="Get VI Inputs and Outputs [Variant].vi" Type="VI" URL="../_SubVIs/Get VI Inputs and Outputs [Variant].vi"/>
+		<Item Name="Get VI Inputs and Outputs [String].vi" Type="VI" URL="../_SubVIs/Get VI Inputs and Outputs [String].vi"/>
+		<Item Name="Get Parent Refnum if Invalid.vi" Type="VI" URL="../_SubVIs/Get Parent Refnum if Invalid.vi"/>
 	</Item>
 	<Item Name="Version" Type="Folder">
 		<Item Name="Get Version.vi" Type="VI" URL="../Version/Get Version.vi"/>
@@ -19,4 +22,5 @@
 	</Item>
 	<Item Name="Restart Application.vi" Type="VI" URL="../Restart Application.vi"/>
 	<Item Name="Wait until VIs close.vi" Type="VI" URL="../Wait until VIs close.vi"/>
+	<Item Name="Get VI Inputs and Outputs.vi" Type="VI" URL="../Get VI Inputs and Outputs.vi"/>
 </Library>
