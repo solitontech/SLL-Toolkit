@@ -9,7 +9,6 @@ A simple, straight forward Queue Based State Machine VI Template. Since this is 
 
 # SLL LabVIEW Code Compare Tool For Git
 GUI to compare LabVIEW code between currently checked out branch with any other branch or any of its commits
-Includes HSE Git API for LabVIEW, (c) (2021) HAMPEL SOFTWARE ENGINEERING. All rights reserved.
 
 # SLL File IO
 ## Write/Read Spreadsheet File
