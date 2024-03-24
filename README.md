@@ -8,7 +8,7 @@ Some of these useful general purpose LabVIEW reusables are:
 A simple, straight forward Queue Based State Machine VI Template. Since this is just a single VI, they can be used for any purpose - from a dialog to a simple application.
 
 # SLL LabVIEW Code Compare Tool For Git
-GUI to compare LabVIEW code between currently checked out branch with any other branch or any of its commits
+GUI to compare LabVIEW code between currently checked out branch with any other branch or any of its commits.
 
 # SLL File IO
 ## Write/Read Spreadsheet File
