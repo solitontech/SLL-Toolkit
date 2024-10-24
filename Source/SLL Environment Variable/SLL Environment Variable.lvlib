@@ -8,33 +8,33 @@
 
 </Property>
 	<Item Name="_Constants" Type="Folder">
-		<Item Name="Delimiter.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_Constants/Delimiter.vi"/>
-		<Item Name="Path Variable.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_Constants/Path Variable.vi"/>
+		<Item Name="Delimiter.vi" Type="VI" URL="../_Constants/Delimiter.vi"/>
+		<Item Name="Path Variable.vi" Type="VI" URL="../_Constants/Path Variable.vi"/>
 	</Item>
 	<Item Name="_SubVIs" Type="Folder">
-		<Item Name="1D String Array To String.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/1D String Array To String.vi"/>
-		<Item Name="Array To Set.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Array To Set.vi"/>
-		<Item Name="Check Windows Platform.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Check Windows Platform.vi"/>
-		<Item Name="Get All Environment Variables [Array of clusters].vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Get All Environment Variables [Array of clusters].vi"/>
-		<Item Name="Get All Environment Variables [Arrays].vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Get All Environment Variables [Arrays].vi"/>
-		<Item Name="Get All Environment Variables [Map].vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Get All Environment Variables [Map].vi"/>
-		<Item Name="Set To Array.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Set To Array.vi"/>
-		<Item Name="String To 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/String To 1D String Array.vi"/>
-		<Item Name="Target Environment To Number.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_SubVI/Target Environment To Number.vi"/>
+		<Item Name="1D String Array To String.vi" Type="VI" URL="../_SubVI/1D String Array To String.vi"/>
+		<Item Name="Array To Set.vi" Type="VI" URL="../_SubVI/Array To Set.vi"/>
+		<Item Name="Check Windows Platform.vi" Type="VI" URL="../_SubVI/Check Windows Platform.vi"/>
+		<Item Name="Get All Environment Variables [Array of clusters].vi" Type="VI" URL="../_SubVI/Get All Environment Variables [Array of clusters].vi"/>
+		<Item Name="Get All Environment Variables [Arrays].vi" Type="VI" URL="../_SubVI/Get All Environment Variables [Arrays].vi"/>
+		<Item Name="Get All Environment Variables [Map].vi" Type="VI" URL="../_SubVI/Get All Environment Variables [Map].vi"/>
+		<Item Name="Set To Array.vi" Type="VI" URL="../_SubVI/Set To Array.vi"/>
+		<Item Name="String To 1D String Array.vi" Type="VI" URL="../_SubVI/String To 1D String Array.vi"/>
+		<Item Name="Target Environment To Number.vi" Type="VI" URL="../_SubVI/Target Environment To Number.vi"/>
 	</Item>
 	<Item Name="_Typedefs" Type="Folder">
-		<Item Name="Environment Variable Cluster.ctl" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_Typedef/Environment Variable Cluster.ctl"/>
-		<Item Name="Target Environment Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/_Typedef/Target Environment Enum.ctl"/>
+		<Item Name="Environment Variable Cluster.ctl" Type="VI" URL="../_Typedef/Environment Variable Cluster.ctl"/>
+		<Item Name="Target Environment Enum.ctl" Type="VI" URL="../_Typedef/Target Environment Enum.ctl"/>
 	</Item>
 	<Item Name="Path Variable" Type="Folder">
-		<Item Name="Append Path Values.vim" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Path Variable/Append Path Values.vim"/>
-		<Item Name="Delete Path Values.vim" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Path Variable/Delete Path Values.vim"/>
-		<Item Name="Get Path Values.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Path Variable/Get Path Values.vi"/>
-		<Item Name="Set Path Values.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Path Variable/Set Path Values.vi"/>
+		<Item Name="Append Path Values.vim" Type="VI" URL="../Path Variable/Append Path Values.vim"/>
+		<Item Name="Delete Path Values.vim" Type="VI" URL="../Path Variable/Delete Path Values.vim"/>
+		<Item Name="Get Path Values.vi" Type="VI" URL="../Path Variable/Get Path Values.vi"/>
+		<Item Name="Set Path Values.vi" Type="VI" URL="../Path Variable/Set Path Values.vi"/>
 	</Item>
-	<Item Name="Check If Environment Variable Exists.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Check If Environment Variable Exists.vi"/>
-	<Item Name="Get All Environment Variables [Polymorphic].vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Get All Environment Variables [Polymorphic].vi"/>
-	<Item Name="Get Environment Variable.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Get Environment Variable.vi"/>
-	<Item Name="Get Variable Name List.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Get Variable Name List.vi"/>
-	<Item Name="Set Environment Variable.vi" Type="VI" URL="/&lt;vilib&gt;/SLL Toolkit/SLL Environment Variable/Set Environment Variable.vi"/>
+	<Item Name="Check If Environment Variable Exists.vi" Type="VI" URL="../Check If Environment Variable Exists.vi"/>
+	<Item Name="Get All Environment Variables [Polymorphic].vi" Type="VI" URL="../Get All Environment Variables [Polymorphic].vi"/>
+	<Item Name="Get Environment Variable.vi" Type="VI" URL="../Get Environment Variable.vi"/>
+	<Item Name="Get Variable Name List.vi" Type="VI" URL="../Get Variable Name List.vi"/>
+	<Item Name="Set Environment Variable.vi" Type="VI" URL="../Set Environment Variable.vi"/>
 </Library>
