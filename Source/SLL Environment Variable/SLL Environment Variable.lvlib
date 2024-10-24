@@ -14,6 +14,7 @@
 	<Item Name="_SubVIs" Type="Folder">
 		<Item Name="1D String Array To String.vi" Type="VI" URL="../_SubVI/1D String Array To String.vi"/>
 		<Item Name="Array To Set.vi" Type="VI" URL="../_SubVI/Array To Set.vi"/>
+		<Item Name="Check Windows Platform.vi" Type="VI" URL="../_SubVI/Check Windows Platform.vi"/>
 		<Item Name="Get All Environment Variables [Array of clusters].vi" Type="VI" URL="../_SubVI/Get All Environment Variables [Array of clusters].vi"/>
 		<Item Name="Get All Environment Variables [Arrays].vi" Type="VI" URL="../_SubVI/Get All Environment Variables [Arrays].vi"/>
 		<Item Name="Get All Environment Variables [Map].vi" Type="VI" URL="../_SubVI/Get All Environment Variables [Map].vi"/>
