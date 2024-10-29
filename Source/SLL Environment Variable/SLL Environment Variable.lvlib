@@ -27,6 +27,7 @@
 		<Item Name="Target Environment Enum.ctl" Type="VI" URL="../_Typedef/Target Environment Enum.ctl"/>
 	</Item>
 	<Item Name="Path Variable" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Append Path Values.vim" Type="VI" URL="../Path Variable/Append Path Values.vim"/>
 		<Item Name="Delete Path Values.vim" Type="VI" URL="../Path Variable/Delete Path Values.vim"/>
 		<Item Name="Get Path Values.vi" Type="VI" URL="../Path Variable/Get Path Values.vi"/>
@@ -35,6 +36,6 @@
 	<Item Name="Check If Environment Variable Exists.vi" Type="VI" URL="../Check If Environment Variable Exists.vi"/>
 	<Item Name="Get All Environment Variables [Polymorphic].vi" Type="VI" URL="../Get All Environment Variables [Polymorphic].vi"/>
 	<Item Name="Get Environment Variable.vi" Type="VI" URL="../Get Environment Variable.vi"/>
-	<Item Name="Get Variable Name List.vi" Type="VI" URL="../Get Variable Name List.vi"/>
+	<Item Name="Get Variable Names.vi" Type="VI" URL="../Get Variable Names.vi"/>
 	<Item Name="Set Environment Variable.vi" Type="VI" URL="../Set Environment Variable.vi"/>
 </Library>
