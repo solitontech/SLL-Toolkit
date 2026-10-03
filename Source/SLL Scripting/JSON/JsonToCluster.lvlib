@@ -9,33 +9,34 @@
 
 </Property>
 	<Item Name="Constants" Type="Folder">
-		<Item Name="ControlTerminalReference.ctl" Type="VI" URL="../_Controls/ControlTerminalReference.ctl"/>
+		<Item Name="Control Terminal Reference.ctl" Type="VI" URL="../_Controls/Control Terminal Reference.ctl"/>
 		<Item Name="Tokens.ctl" Type="VI" URL="../_Controls/Tokens.ctl"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
-		<Item Name="CheckForValidPath.vi" Type="VI" URL="../_SubVIs/CheckForValidPath.vi"/>
-		<Item Name="CleanUpBlockDiagram.vi" Type="VI" URL="../_SubVIs/CleanUpBlockDiagram.vi"/>
-		<Item Name="ConnectUnflattenFromJSONNode.vi" Type="VI" URL="../_SubVIs/ConnectUnflattenFromJSONNode.vi"/>
-		<Item Name="CreateArrayControl.vi" Type="VI" URL="../_SubVIs/CreateArrayControl.vi"/>
-		<Item Name="CreateBooleanControl.vi" Type="VI" URL="../_SubVIs/CreateBooleanControl.vi"/>
-		<Item Name="CreateClusterControl.vi" Type="VI" URL="../_SubVIs/CreateClusterControl.vi"/>
-		<Item Name="CreateNumericControl.vi" Type="VI" URL="../_SubVIs/CreateNumericControl.vi"/>
-		<Item Name="CreateStringControl.vi" Type="VI" URL="../_SubVIs/CreateStringControl.vi"/>
-		<Item Name="GenerateErrorControl.vi" Type="VI" URL="../_SubVIs/GenerateErrorControl.vi"/>
-		<Item Name="GetControlReferencesToConWithUnflattenFromString.vi" Type="VI" URL="../_SubVIs/GetControlReferencesToConWithUnflattenFromString.vi"/>
-		<Item Name="GetControlTerminalReference.vi" Type="VI" URL="../_SubVIs/GetControlTerminalReference.vi"/>
-		<Item Name="GetLastParent.vi" Type="VI" URL="../_SubVIs/GetLastParent.vi"/>
-		<Item Name="GetUnflattenFronJSONNodeTerminals.vi" Type="VI" URL="../_SubVIs/GetUnflattenFronJSONNodeTerminals.vi"/>
-		<Item Name="IsMultiDimensionArray.vi" Type="VI" URL="../_SubVIs/IsMultiDimensionArray.vi"/>
-		<Item Name="IsString.vi" Type="VI" URL="../_SubVIs/IsString.vi"/>
-		<Item Name="JsonToCluster.vi" Type="VI" URL="../_SubVIs/JsonToCluster.vi"/>
-		<Item Name="JsonTokenToClusterData.vi" Type="VI" URL="../_SubVIs/JsonTokenToClusterData.vi"/>
-		<Item Name="JsonToTokens.vi" Type="VI" URL="../_SubVIs/JsonToTokens.vi"/>
-		<Item Name="RunVI.vi" Type="VI" URL="../_SubVIs/RunVI.vi"/>
+		<Item Name="Check for Valid Path.vi" Type="VI" URL="../_SubVIs/Check for Valid Path.vi"/>
+		<Item Name="Clean Up Block Diagram.vi" Type="VI" URL="../_SubVIs/Clean Up Block Diagram.vi"/>
+		<Item Name="Connect Unflatten from JSON Node.vi" Type="VI" URL="../_SubVIs/Connect Unflatten from JSON Node.vi"/>
+		<Item Name="Create Array Control.vi" Type="VI" URL="../_SubVIs/Create Array Control.vi"/>
+		<Item Name="Create Boolean Control.vi" Type="VI" URL="../_SubVIs/Create Boolean Control.vi"/>
+		<Item Name="Create Cluster Control.vi" Type="VI" URL="../_SubVIs/Create Cluster Control.vi"/>
+		<Item Name="Create Numeric Control.vi" Type="VI" URL="../_SubVIs/Create Numeric Control.vi"/>
+		<Item Name="Create String Control.vi" Type="VI" URL="../_SubVIs/Create String Control.vi"/>
+		<Item Name="Generate Error Control.vi" Type="VI" URL="../_SubVIs/Generate Error Control.vi"/>
+		<Item Name="Get Ctrl Ref to Connect Unflatten Node.vi" Type="VI" URL="../_SubVIs/Get Ctrl Ref to Connect Unflatten Node.vi"/>
+		<Item Name="Get Ctrl Terminal Ref.vi" Type="VI" URL="../_SubVIs/Get Ctrl Terminal Ref.vi"/>
+		<Item Name="Get Last Parent Ref.vi" Type="VI" URL="../_SubVIs/Get Last Parent Ref.vi"/>
+		<Item Name="Get Unflatten From JSON Node Terminals.vi" Type="VI" URL="../_SubVIs/Get Unflatten From JSON Node Terminals.vi"/>
+		<Item Name="Is Multi Dimension Array.vi" Type="VI" URL="../_SubVIs/Is Multi Dimension Array.vi"/>
+		<Item Name="Is String.vi" Type="VI" URL="../_SubVIs/Is String.vi"/>
+		<Item Name="Json to Cluster.vi" Type="VI" URL="../_SubVIs/Json to Cluster.vi"/>
+		<Item Name="Json Token to Cluster Data.vi" Type="VI" URL="../_SubVIs/Json Token to Cluster Data.vi"/>
+		<Item Name="Json to Tokens.vi" Type="VI" URL="../_SubVIs/Json to Tokens.vi"/>
+		<Item Name="Run VI.vi" Type="VI" URL="../_SubVIs/Run VI.vi"/>
 		<Item Name="Splitters.vi" Type="VI" URL="../_SubVIs/Splitters.vi"/>
-		<Item Name="TokenizeJsonString.vi" Type="VI" URL="../_SubVIs/TokenizeJsonString.vi"/>
-		<Item Name="UpdateValuesFromJSON.vi" Type="VI" URL="../_SubVIs/UpdateValuesFromJSON.vi"/>
-		<Item Name="CreateJSONCluster.vi" Type="VI" URL="../_SubVIs/CreateJSONCluster.vi"/>
+		<Item Name="Tokenize Json String.vi" Type="VI" URL="../_SubVIs/Tokenize Json String.vi"/>
+		<Item Name="Update Values from JSON.vi" Type="VI" URL="../_SubVIs/Update Values from JSON.vi"/>
+		<Item Name="Create JSON Cluster.vi" Type="VI" URL="../_SubVIs/Create JSON Cluster.vi"/>
+		<Item Name="Get Ctrl Ref.vi" Type="VI" URL="../_SubVIs/Get Ctrl Ref.vi"/>
 	</Item>
 	<Item Name="ParseJSON.vi" Type="VI" URL="../ParseJSON.vi"/>
 </Library>
