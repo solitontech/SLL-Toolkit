@@ -28,15 +28,15 @@
 		<Item Name="Get Unflatten From JSON Node Terminals.vi" Type="VI" URL="../_SubVIs/Get Unflatten From JSON Node Terminals.vi"/>
 		<Item Name="Is Multi Dimension Array.vi" Type="VI" URL="../_SubVIs/Is Multi Dimension Array.vi"/>
 		<Item Name="Is String.vi" Type="VI" URL="../_SubVIs/Is String.vi"/>
-		<Item Name="Json to Cluster.vi" Type="VI" URL="../_SubVIs/Json to Cluster.vi"/>
-		<Item Name="Json Token to Cluster Data.vi" Type="VI" URL="../_SubVIs/Json Token to Cluster Data.vi"/>
-		<Item Name="Json to Tokens.vi" Type="VI" URL="../_SubVIs/Json to Tokens.vi"/>
+		<Item Name="JSON Token to Cluster Data.vi" Type="VI" URL="../_SubVIs/JSON Token to Cluster Data.vi"/>
+		<Item Name="JSON to Tokens.vi" Type="VI" URL="../_SubVIs/JSON to Tokens.vi"/>
 		<Item Name="Run VI.vi" Type="VI" URL="../_SubVIs/Run VI.vi"/>
 		<Item Name="Splitters.vi" Type="VI" URL="../_SubVIs/Splitters.vi"/>
-		<Item Name="Tokenize Json String.vi" Type="VI" URL="../_SubVIs/Tokenize Json String.vi"/>
+		<Item Name="Tokenize JSON String.vi" Type="VI" URL="../_SubVIs/Tokenize JSON String.vi"/>
 		<Item Name="Update Values from JSON.vi" Type="VI" URL="../_SubVIs/Update Values from JSON.vi"/>
 		<Item Name="Create JSON Cluster.vi" Type="VI" URL="../_SubVIs/Create JSON Cluster.vi"/>
 		<Item Name="Get Ctrl Ref.vi" Type="VI" URL="../_SubVIs/Get Ctrl Ref.vi"/>
 	</Item>
 	<Item Name="ParseJSON.vi" Type="VI" URL="../ParseJSON.vi"/>
+	<Item Name="Generate Cluster from JSON.vi" Type="VI" URL="../Generate Cluster from JSON.vi"/>
 </Library>
