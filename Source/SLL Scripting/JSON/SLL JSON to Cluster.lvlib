@@ -37,6 +37,5 @@
 		<Item Name="Create JSON Cluster.vi" Type="VI" URL="../_SubVIs/Create JSON Cluster.vi"/>
 		<Item Name="Get Ctrl Ref.vi" Type="VI" URL="../_SubVIs/Get Ctrl Ref.vi"/>
 	</Item>
-	<Item Name="ParseJSON.vi" Type="VI" URL="../ParseJSON.vi"/>
-	<Item Name="Generate Cluster from JSON.vi" Type="VI" URL="../Generate Cluster from JSON.vi"/>
+	<Item Name="Script Cluster from JSON.vi" Type="VI" URL="../Script Cluster from JSON.vi"/>
 </Library>
